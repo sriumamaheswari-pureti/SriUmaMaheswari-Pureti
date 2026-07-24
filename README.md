@@ -29,9 +29,9 @@
 
 
 <!-- EDIT HERE: Bio, goals, interests, fun fact -->
-- 🎓 Final Year **B.Tech in Information Technology** @ Vignan's Institute of Information Technology
+- 🎓 Final Year **B.Tech Student in Information Technology** @ Vignan's Institute of Information Technology
 - 📊 Aspiring **Data Analyst** with a passion for solving real-world problems using data
-- 🔭 Currently exploring **Python, SQL, Power BI, Tableau**, and Business Intelligence
+- 🔭 Currently exploring **Python, SQL, Power BI, Excel**, and Business Intelligence
 - 🎯 Looking for: **Data Analyst roles** and **Full-Time Internships**
 - 💡 Interests: Solving coding challenges on LeetCode • Learning new technologies
 - 📍 Based in **Visakhapatnam, India**
