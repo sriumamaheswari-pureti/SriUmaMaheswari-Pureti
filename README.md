@@ -84,36 +84,91 @@
 
 <!-- EDIT HERE: Add/remove project cards as needed -->
 
-#### 📊 Crunch Co. — Sales & Marketing Performance Dashboard
-Developed an interactive Power BI sales dashboard by transforming raw sales data with Power Query and building 15+ DAX measures (MTD, QTD, YTD, YoY, MoM) to analyze performance across 45 stores. Enabled real-time KPI tracking for **$1.12B+ net sales**, **3B+ impressions**, and **5M+ units sold**, improving reporting and data-driven decisions.
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-`Power BI` `Power Query` `DAX` `Data Modeling`
+<a href="https://github.com/sriumamaheswari-pureti/CrunchCo_Sales-Marketing_Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriumamaheswari-pureti&repo=CrunchCo_Sales-Marketing_Dashboard&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
 
-🔗 [View Repository](https://github.com/sriumamaheswari-pureti/CrunchCo_Sales-Marketing_Dashboard)
+**📊 CrunchCo Sales & Marketing Dashboard**
 
-#### 🏛️ CivicMind AI
-An AI-powered civic grievance platform that lets citizens report public issues via text, voice, or images. Automatically categorizes, prioritizes, and routes complaints to the appropriate authorities — streamlining civic issue resolution.
+Interactive **Power BI** dashboard transforming raw sales data (Power Query) with **15+ DAX measures** (MTD, QTD, YTD, YoY, MoM) across **45 stores**.
 
-`AI/ML` `NLP` `Automation` `Civic Tech`
+📈 `$1.12B+ Net Sales` &nbsp;•&nbsp; `3B+ Impressions` &nbsp;•&nbsp; `5M+ Units Sold`
 
-🔗 [View Repository](https://github.com/sriumamaheswari-pureti/CivicMindAI)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-8E2DE2?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriumamaheswari-pureti/CrunchCo_Sales-Marketing_Dashboard)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/sriumamaheswari-pureti/CivicMindAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriumamaheswari-pureti&repo=CivicMindAI&theme=tokyonight&hide_border=true" width="100%"/>
+</a>
+
+**🏛️ CivicMind AI**
+
+AI-powered civic grievance platform — citizens report issues via **text, voice, or images**, with automatic categorization, prioritization, and routing to authorities.
+
+🧠 `Text` &nbsp;•&nbsp; `Voice` &nbsp;•&nbsp; `Image` &nbsp;Input Support
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-8E2DE2?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-2E9EF7?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-00A67D?style=flat-square)
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriumamaheswari-pureti/CivicMindAI)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-**Achievements**
-- 🎓 Maintained a CGPA of **9.33/10** throughout the academic program
-- ⭐ **2★ Coder** on CodeChef | **4★ SQL** on HackerRank
-- 🧩 Solved **300+ coding problems** on CodeChef, strengthening problem-solving and algorithmic skills
-- 🎤 Organized and successfully managed the **PISTON CUP Hackathon** — leadership, event coordination, and end-to-end event management
+<div align="center">
 
-**Certifications**
-- 📜 Data Analytics Job Simulation — Deloitte Australia (Forage), Feb 2026
-- 📜 Tata GenAI Powered Data Analytics Job Simulation — Forage, Mar 2026
-- 📜 Data Analytics with Python — NPTEL (Elite, 60%), May 2026
-- 📜 Data Analytics Essentials — Cisco Networking Academy, Jul 2026
-- 📜 Advanced SQL for Data Analysis — Topmate, May 2026
+![CGPA](https://img.shields.io/badge/CGPA-9.33%2F10-2E9EF7?style=for-the-badge)
+![CodeChef](https://img.shields.io/badge/CodeChef-2★_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-4★_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-300%2B-8E2DE2?style=for-the-badge)
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🎖️ Achievements**
+
+| | |
+|---|---|
+| 🎓 | Maintained a **CGPA of 9.33/10** throughout the academic program |
+| ⭐ | **2★ Coder** on CodeChef &nbsp;\|&nbsp; **4★ SQL** on HackerRank |
+| 🧩 | Solved **300+ coding problems** on CodeChef |
+| 🎤 | Organized & managed the **PISTON CUP Hackathon** — end-to-end event leadership |
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+
+| Certification | Provider | Date |
+|---|---|---|
+| Data Analytics Job Simulation | 🔵 Deloitte (Forage) | Feb 2026 |
+| Tata GenAI Data Analytics Sim. | 🟣 Tata (Forage) | Mar 2026 |
+| Data Analytics with Python | 🟢 NPTEL (Elite 60%) | May 2026 |
+| Data Analytics Essentials | 🔷 Cisco Academy | Jul 2026 |
+| Advanced SQL for Data Analysis | 🟠 Topmate | May 2026 |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -135,14 +190,24 @@ An AI-powered civic grievance platform that lets citizens report public issues v
 
 ### 📈 GitHub Stats
 
+<!--
+  NOTE on broken cards: the public github-readme-stats.vercel.app instance is
+  community-hosted and gets rate-limited often, especially with extra params
+  like count_private / include_all_commits / hide_title. The URLs below use the
+  minimal, most reliable param set. If a card still shows broken:
+    1. Just refresh the page (GitHub caches broken image responses briefly)
+    2. Or fork+deploy your own instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+       then swap "github-readme-stats.vercel.app" for your own Vercel URL below.
+-->
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sriumamaheswari-pureti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriumamaheswari-pureti&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sriumamaheswari-pureti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriumamaheswari-pureti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriumamaheswari-pureti&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=sriumamaheswari-pureti&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
