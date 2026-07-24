@@ -23,9 +23,10 @@
 
 </div>
 
----
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C9FF&height=6"/>
 
 ### 🧠 About Me
+
 
 <!-- EDIT HERE: Bio, goals, interests, fun fact -->
 - 🎓 Final Year **B.Tech in Information Technology** @ Vignan's Institute of Information Technology
@@ -36,9 +37,10 @@
 - 📍 Based in **Visakhapatnam, India**
 - ⚡ Fun fact: *"I believe every dataset has a story waiting to be discovered."*
 
----
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=6"/>
 
 ### 🛠️ Technical Skills
+
 
 **Languages**
 
@@ -78,9 +80,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:DD2476&height=6"/>
 
 ### 🚀 Featured Projects
+
 
 <!-- EDIT HERE: Add/remove project cards as needed -->
 
@@ -127,68 +130,122 @@ AI-powered civic grievance platform — citizens report issues via **text, voice
 </tr>
 </table>
 
----
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=6"/>
 
-### 🏆 Achievements & Certifications
+### 🏅 Achievements
 
 <div align="center">
 
-![CGPA](https://img.shields.io/badge/CGPA-9.33%2F10-2E9EF7?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/🎓_CGPA-9.33%2F10-F7971E?style=for-the-badge&labelColor=2b2b2b)
 ![CodeChef](https://img.shields.io/badge/CodeChef-2★_Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-4★_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-300%2B-8E2DE2?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/🧩_Problems_Solved-300%2B-FFD200?style=for-the-badge&labelColor=2b2b2b)
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-**🎖️ Achievements**
-
-| | |
-|---|---|
-| 🎓 | Maintained a **CGPA of 9.33/10** throughout the academic program |
-| ⭐ | **2★ Coder** on CodeChef &nbsp;\|&nbsp; **4★ SQL** on HackerRank |
-| 🧩 | Solved **300+ coding problems** on CodeChef |
-| 🎤 | Organized & managed the **PISTON CUP Hackathon** — end-to-end event leadership |
+### 🎓
+**9.33 / 10**
+<sub>CGPA maintained throughout the academic program</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-**📜 Certifications**
+### ⭐
+**2★ / 4★**
+<sub>CodeChef Coder &nbsp;•&nbsp; HackerRank SQL</sub>
 
-| Certification | Provider | Date |
-|---|---|---|
-| Data Analytics Job Simulation | 🔵 Deloitte (Forage) | Feb 2026 |
-| Tata GenAI Data Analytics Sim. | 🟣 Tata (Forage) | Mar 2026 |
-| Data Analytics with Python | 🟢 NPTEL (Elite 60%) | May 2026 |
-| Data Analytics Essentials | 🔷 Cisco Academy | Jul 2026 |
-| Advanced SQL for Data Analysis | 🟠 Topmate | May 2026 |
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🧩
+**300+**
+<sub>Coding problems solved on CodeChef</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🎤
+**PISTON CUP**
+<sub>Hackathon organized & led end-to-end</sub>
 
 </td>
 </tr>
 </table>
 
----
+> 💬 *"Consistency in academics, competitive coding, and leadership — built one milestone at a time."*
+
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:4568DC,100:B06AB3&height=6"/>
+
+### 📜 Certifications
+
+<table width="100%">
+<tr><td>
+
+**🔵 Data Analytics Job Simulation** — *Deloitte Australia (Forage)*
+📅 `Feb 2026`
+
+</td></tr>
+<tr><td>
+
+**🟣 Tata GenAI Powered Data Analytics Job Simulation** — *Forage*
+📅 `Mar 2026`
+
+</td></tr>
+<tr><td>
+
+**🟢 Data Analytics with Python** — *NPTEL (Elite, Top 60%)*
+📅 `May 2026`
+
+</td></tr>
+<tr><td>
+
+**🔷 Data Analytics Essentials** — *Cisco Networking Academy*
+📅 `Jul 2026`
+
+</td></tr>
+<tr><td>
+
+**🟠 Advanced SQL for Data Analysis** — *Topmate*
+📅 `May 2026`
+
+</td></tr>
+</table>
+
+<div align="center">
+
+![Forage](https://img.shields.io/badge/Forage-2x_Certified-6A5ACD?style=flat-square)
+![NPTEL](https://img.shields.io/badge/NPTEL-Elite-2E9EF7?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-Networking_Academy-049FD9?style=flat-square&logo=cisco&logoColor=white)
+![Topmate](https://img.shields.io/badge/Topmate-SQL_Advanced-FFA500?style=flat-square)
+
+</div>
+
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=6"/>
 
 ### 📚 Currently Learning
+
 
 ![Advanced Excel](https://img.shields.io/badge/-Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Python Automation](https://img.shields.io/badge/-Python_Automation-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:FC5C7D,100:6A82FB&height=6"/>
 
 ### 🤝 Open to Collaborate On
+
 
 - 🌱 Open-source projects
 - 💼 Freelance opportunities
 - 🔬 Research projects
 - 🚀 Startup ideas
 
----
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=6"/>
 
 ### 📈 GitHub Stats
+
 
 <!--
   NOTE on broken cards: the public github-readme-stats.vercel.app instance is
@@ -211,9 +268,10 @@ AI-powered civic grievance platform — citizens report issues via **text, voice
 
 </div>
 
----
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:2E9EF7&height=6"/>
 
 ### 📬 Connect With Me
+
 
 <div align="center">
 
@@ -228,3 +286,5 @@ AI-powered civic grievance platform — citizens report issues via **text, voice
 <div align="center">
   <sub>⭐ Thanks for visiting my profile — feel free to reach out for opportunities or collaborations!</sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=120&section=footer"/>
